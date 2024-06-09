@@ -17,9 +17,9 @@ function Serie1(){
 
     return(
         <>
-            <button onClick={serie}>serie impar</button>
+            <button onClick={serie}>serie par</button>
             <h1>{v.join(",")}</h1>
-            <p>serie de numeros impares</p>
+            <p>serie de numeros pares</p>
 
 
         </>
